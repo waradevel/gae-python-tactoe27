@@ -1,9 +1,4 @@
-#
-# Copyright 2010 Google Inc. All Rights Reserved.
-
-# pylint: disable-msg=C6310
-
-"""Channel Tic Tac Toe
+"""Channel Tic Tac Toe  Python 2.7
 
 This module demonstrates the App Engine Channel API by implementing a
 simple tic-tac-toe game.
